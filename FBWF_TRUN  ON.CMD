@@ -1,7 +1,6 @@
 fbwfmgr /enable
 fbwfmgr /addvolume C:
 fbwfmgr /addvolume D:
-
 fbwfmgr /addexclusion c: "\Users"
 fbwfmgr /addexclusion c: "\Windows\Installer"
 fbwfmgr /addexclusion c: "\Program Files\TortoiseGit"
