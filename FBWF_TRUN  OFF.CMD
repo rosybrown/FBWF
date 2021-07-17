@@ -1,0 +1,2 @@
+fbwfmgr /disable
+

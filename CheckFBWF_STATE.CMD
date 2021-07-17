@@ -1,0 +1,2 @@
+fbwfmgr /displayconfig
+PAUSE
