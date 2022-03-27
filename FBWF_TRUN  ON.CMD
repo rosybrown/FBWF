@@ -22,6 +22,7 @@ fbwfmgr /addexclusion D: "\Documents"
 fbwfmgr /addexclusion D: "\WIN_VHD\"
 fbwfmgr /addexclusion D: "\PortableApps"
 fbwfmgr /addexclusion D: "\Program Files"
+fbwfmgr /addexclusion D: "\etc"
 
 
 
